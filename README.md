@@ -170,24 +170,23 @@ The SQL tasks were performed using the following datasets:
 
 ## Project Insights 📈
 
-This project reveals key insights about the factors driving healthcare costs, helping insurance companies make more informed, data-driven decisions. By leveraging Python, SQL, and Tableau, I was able to predict hospitalization costs and create interactive dashboards for in-depth analysis.
+This project provides key insights into the factors that drive healthcare costs, allowing insurance companies to make more informed, data-driven decisions. Using Python, SQL, and Tableau, I was able to forecast hospitalization costs and create interactive dashboards for in-depth analysis.
 
 ---
 
 ## Conclusion 🏁
 
-The Healthcare Insurance Analysis project showcases my ability to handle real-world data, build predictive models, and create interactive dashboards. It’s a demonstration of my skills in data analysis, machine learning, and data visualization, making me well-suited for roles in data science and analytics.
+The Healthcare Insurance Analysis project demonstrates my abilities to work with real-world data, develop prediction models, and design interactive dashboards. It showcases my talents in data analysis, machine learning, and data visualization, that equip me for a position in data science and analytics.
 
 --- 
 
 ## Contact 📬
 
-   - **[LinkedIn: Karthikeya Turlapati](https://www.linkedin.com/in/karthikeya-turlapati-a0214b221/)**
+- **[LinkedIn: Karthikeya Turlapati](https://www.linkedin.com/in/karthikeya-turlapati-a0214b221/)**
 
 ---
 
 ## *Predicting healthcare costs is like predicting the weather—sometimes it's sunny, sometimes it's a storm... but at least we’ve got the data to plan for both! ☀️🌧️* 
-
 ## **Let's make data-driven decisions that bring the sunshine back to healthcare! 🌞**
 
 
